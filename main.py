@@ -1,6 +1,7 @@
+import time
+
 import cv2
 import numpy as np
-import time
 
 from modules.detector import ArucoDetector
 from modules.distance import DistanceCalculator
